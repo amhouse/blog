@@ -8,7 +8,7 @@ Amanda House ([amhouse.github.io](https://amhouse.github.io))
 
 ## Why
 
-Before the pandemic, when it was possible to do so, I very occasionally socialized. Maybe a few times a year. At every party, regardless how far I went from the Bay Area, I met aspiring software engineers. These people ranged from current computer science students, to people making a later in life career change, to, memorably a 10 year old. I've handed out enough cards and entered my contact info into enough phones to get messages from people I had met once, their friends, their friends' friends, ... Even now, I get a steady stream of emails asking for advice.
+Before the pandemic, when it was possible to do so, I very occasionally socialized. Maybe a few times a year. At every party, regardless how far I went from the Bay Area, I met aspiring software engineers. These people ranged from current computer science students, to people making a later in life career change, to, memorably, a 10 year old. I've handed out enough cards and entered my contact info into enough phones to get messages from people I had met once, their friends, their friends' friends, ... Even now, I get a steady stream of emails asking for advice.
 
 I'm not writing this because I'm somehow more of an expert than any other Google engineer is, but because I've written versions of this over and over again. And one of my favorite ways to answer questions at work is to send back a link to documentation that I wrote. (I absolutely love writing documentation.) So, next time I get an email asking for advice, I'll have this.
 
