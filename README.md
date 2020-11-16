@@ -21,6 +21,10 @@ A bunch of markdown files in a Github repo? _Yeah._
 
 1. [Gear](https://amhouse.github.io/blog/gear)
 
+### Tech
+
+1. [Everything I know about getting a job at Google](https://amhouse.github.io/blog/google)
+
 ### Miscellaneous
 
 1. [An investigation of Spongebob season 1 ep 6b](https://docs.google.com/document/d/1EBtG8ugtAh3B8oFn2rB7algNjrXCWqE0MJLQQSH-NVs) (google doc)
