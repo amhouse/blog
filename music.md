@@ -8,6 +8,8 @@ Streaming pick: Spotify Premium.
 
 ## Vinyl
 
+### Visual
+
 <img src="https://amhouse.github.io/blog/media/vinyl-jb-2.png" alt="Julien Baker, Turn Out the Lights" width="400"/>
 
 <img src="https://amhouse.github.io/blog/media/vinyl-ld.png" alt="Lucy Dacus, Historian" width="445"/>
@@ -44,6 +46,8 @@ Streaming pick: Spotify Premium.
 
 <img src="https://amhouse.github.io/blog/media/vinyl-ts.png" alt="Taylor Swift, folklore" width="520"/>
 
+<!-- Taylor Swift, cardigan -->
+
 <img src="https://amhouse.github.io/blog/media/vinyl-haim-2.png" alt="Haim, Something to Tell You" width="365"/>
 
 <img src="https://amhouse.github.io/blog/media/vinyl-haim-3.png" alt="Haim, Women in Music Pt. III" width="364"/>
@@ -56,15 +60,85 @@ Streaming pick: Spotify Premium.
 
 <img src="https://amhouse.github.io/blog/media/vinyl-clh.png" alt="Christian Lee Hutson, Beginners" width="350"/>
 
-<!-- Oso Oso, Basking in the Glow -->
-
 <img src="https://amhouse.github.io/blog/media/vinyl-cataldo.png" alt="Cataldo, Keepers" width="378"/>
 
-<img src="https://amhouse.github.io/blog/media/vinyl-mr-1.png" alt="Maggie Rogers, Now That the Light Is Fading " width="352"/>
+<img src="https://amhouse.github.io/blog/media/vinyl-mr-1.png" alt="Maggie Rogers, Now That the Light Is Fading" width="352"/>
 
 <img src="https://amhouse.github.io/blog/media/vinyl-mr-2.png" alt="Maggie Rogers, Heard It in a Past Life" width="352"/>
 
 <img src="https://amhouse.github.io/blog/media/vinyl-nc.png" alt="Neko Case, Fox Confessor Brings the Flood" width="265"/>
+
+<!-- Kevin Morby, Sundowner -->
+
+<!-- Charly Bliss, Young Enough -->
+
+### Catalog
+
+1. Julien Baker, Turn Out the Lights. From artist's store, 2020/03/20.
+
+1. Lucy Dacus, Historian. From artist's store, 2020/03/20.
+
+1. Phoebe Bridgers, Stranger in the Alps. From Bandcamp, 2020/03/20.
+
+1. boygenius, s/t. From Julien Baker's store, 2020/03/20.
+
+1. Julien Baker, Sprained Ankle. From Bandcamp, 2020/03/20.
+
+1. Lorde, Melodrama. From artist's store, 2020/04/19.
+
+1. Vampire Weekend, Modern Vampires of the City. From Mills Record Company, 2020/04/21.
+
+1. Arcade Fire, The Suburbs. From artist's store, 2020/05/01.
+
+1. Better Oblivion Community Center, s/t. From Bandcamp, 2020/05/01.
+
+1. Oso Oso, Basking in the Glow. Digital 2020/05/08. Found vinyl from Bandcamp, 2020/09/05.
+
+1. Arcade Fire, Funeral. From artist's store, 2020/05/08.
+
+1. Perfume Genius, Set My Heart on Fire Immediately. From Matador store, 2020/05/22.
+
+1. Neutral Milk Hotel, In the Aeroplane Over the Sea. From Bandcamp, 2020/06/05.
+
+1. Mitski, Be The Cowboy. From Bandcamp, 2020/06/05.
+
+1. Feist, The Reminder. From Mills Record Company, 2020/06/10.
+
+1. Emily A Sprague, Water Memory / Mount Vision. From Bandcamp, 2020/07/12.
+
+1. Phoebe Bridgers, Punisher. From Bandcamp, pre-ordered 2020/04/09. Released 2020/06/18.
+
+1. Taylor Swift, folklore. Editions: (7) “running like water", (6) “hide-and-seek", (2) “in the weeds", (1) “in the trees". From artist's store, 2020/07/23.
+
+1. Taylor Swift, cardigan. From artist's store, 2020/07/27.
+
+1. Haim, Something to Tell You. From Mills Record Company, 2020/08/26.
+
+1. Haim, Women in Music Pt. III. From Mills Record Company, 2020/08/26.
+
+1. Carly Rae Jepsen, Dedicated. From Mills Record Company, 2020/08/31.
+
+1. Carly Rae Jepsen, Dedicated Side B. From Mills Record Company, 2020/08/31.
+
+1. Laura Stevenson, Sit Resist (Remastered Deluxe Edition). From Bandcamp, 2020/08/26.
+
+1. Christian Lee Hutson, Beginners. From Mills Record Company, 2020/09/03.
+
+1. Cataldo, Keepers. From Bandcamp, 2020/09/09.
+
+1. Maggie Rogers, Now That the Light Is Fading. From artist's store, 2020/09/09.
+
+1. Maggie Rogers, Heard It in a Past Life. From artist's store, 2020/09/09.
+
+1. Neko Case, Fox Confessor Brings The Flood. From Mills Record Company, 2020/09/09.
+
+1. Kevin Morby, Sundowner. From Bandcamp, 2020/10/19.
+
+1. Charly Bliss, Young Enough. From artist's store, 2020/12/03.
+
+<!-- 1. Julien Baker, Little Oblivions. From Matador store, pre-ordered 2020/10/22. -->
+
+<!-- 1. Maggie Rogers, Notes From The Archive. From artist's store, pre-ordered 2020/11/20. -->
 
 ## Everything else
 
