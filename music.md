@@ -46,7 +46,7 @@ Streaming pick: Spotify Premium.
 
 <img src="https://amhouse.github.io/blog/media/vinyl-ts.png" alt="Taylor Swift, folklore" width="520"/>
 
-<!-- Taylor Swift, cardigan -->
+<img src="https://amhouse.github.io/blog/media/vinyl-ts-c.png" alt="Taylor Swift, cardigan" width="445"/>
 
 <img src="https://amhouse.github.io/blog/media/vinyl-haim-2.png" alt="Haim, Something to Tell You" width="365"/>
 
@@ -68,9 +68,9 @@ Streaming pick: Spotify Premium.
 
 <img src="https://amhouse.github.io/blog/media/vinyl-nc.png" alt="Neko Case, Fox Confessor Brings the Flood" width="265"/>
 
-<!-- Kevin Morby, Sundowner -->
+<img src="https://amhouse.github.io/blog/media/vinyl-km.png" alt="Kevin Morby, Sundowner" width="355"/>
 
-<!-- Charly Bliss, Young Enough -->
+<img src="https://amhouse.github.io/blog/media/vinyl-cb.png" alt="Charly Bliss, Young Enough" width="400"/>
 
 ### Catalog
 
