@@ -76,6 +76,8 @@ Streaming pick: Spotify Premium.
 
 <!-- Overcoats, The Fight -->
 
+<!-- Lucy Dacus, 2019 -->
+
 ### Catalog
 
 1. Julien Baker, Turn Out the Lights. From artist's store, 2020/03/20.
@@ -143,6 +145,8 @@ Streaming pick: Spotify Premium.
 1. Waxahatchee, Saint Cloud. From Bandcamp, 2020/12/04.
 
 1. Overcoats, The Fight. From Bandcamp, 2020/12/04.
+
+1. Lucy Dacus, 2019. From artist's store, 2020/12/04.
 
 <!-- 1. Julien Baker, Little Oblivions. From Matador store, pre-ordered 2020/10/22. Released 2021/02/21. -->
 
