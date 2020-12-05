@@ -72,6 +72,10 @@ Streaming pick: Spotify Premium.
 
 <img src="https://amhouse.github.io/blog/media/vinyl-cb.png" alt="Charly Bliss, Young Enough" width="400"/>
 
+<!-- Waxahatchee, Saint Cloud -->
+
+<!-- Overcoats, The Fight -->
+
 ### Catalog
 
 1. Julien Baker, Turn Out the Lights. From artist's store, 2020/03/20.
@@ -138,9 +142,11 @@ Streaming pick: Spotify Premium.
 
 1. Waxahatchee, Saint Cloud. From Bandcamp, 2020/12/04.
 
-<!-- 1. Julien Baker, Little Oblivions. From Matador store, pre-ordered 2020/10/22. -->
+1. Overcoats, The Fight. From Bandcamp, 2020/12/04.
 
-<!-- 1. Maggie Rogers, Notes From The Archive. From artist's store, pre-ordered 2020/11/20. -->
+<!-- 1. Julien Baker, Little Oblivions. From Matador store, pre-ordered 2020/10/22. Released 2021/02/21. -->
+
+<!-- 1. Maggie Rogers, Notes From The Archive. From artist's store, pre-ordered 2020/11/20. Released 2020/12/18. -->
 
 ## Everything else
 
