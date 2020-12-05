@@ -68,7 +68,7 @@ Streaming pick: Spotify Premium.
 
 <img src="https://amhouse.github.io/blog/media/vinyl-nc.png" alt="Neko Case, Fox Confessor Brings the Flood" width="265"/>
 
-<img src="https://amhouse.github.io/blog/media/vinyl-km.png" alt="Kevin Morby, Sundowner" width="355"/>
+<img src="https://amhouse.github.io/blog/media/vinyl-km.png" alt="Kevin Morby, Sundowner" width="346"/>
 
 <img src="https://amhouse.github.io/blog/media/vinyl-cb.png" alt="Charly Bliss, Young Enough" width="400"/>
 
@@ -135,6 +135,8 @@ Streaming pick: Spotify Premium.
 1. Kevin Morby, Sundowner. From Bandcamp, 2020/10/19.
 
 1. Charly Bliss, Young Enough. From artist's store, 2020/12/03.
+
+1. Waxahatchee, Saint Cloud. From Bandcamp, 2020/12/04.
 
 <!-- 1. Julien Baker, Little Oblivions. From Matador store, pre-ordered 2020/10/22. -->
 
