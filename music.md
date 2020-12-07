@@ -28,7 +28,7 @@ Streaming pick: Spotify Premium.
 
 <img src="https://amhouse.github.io/blog/media/vinyl-bocc.png" alt="Better Oblivion Community Center, s/t" width="355"/>
 
-<!-- Oso Oso, Basking in the Glow -->
+<img src="https://amhouse.github.io/blog/media/vinyl-oo.png" alt="Oso Oso, Basking in the Glow" width="400"/>
 
 <img src="https://amhouse.github.io/blog/media/vinyl-af-f.png" alt="Arcade Fire, Funeral" width="365"/>
 
@@ -72,11 +72,11 @@ Streaming pick: Spotify Premium.
 
 <img src="https://amhouse.github.io/blog/media/vinyl-cb.png" alt="Charly Bliss, Young Enough" width="400"/>
 
-<!-- Waxahatchee, Saint Cloud -->
+<img src="https://amhouse.github.io/blog/media/vinyl-wh.png" alt="Waxahatchee, Saint Cloud" width="400"/>
 
-<!-- Overcoats, The Fight -->
+<img src="https://amhouse.github.io/blog/media/vinyl-oc.png" alt="Overcoats, The Fight" width="426"/>
 
-<!-- Lucy Dacus, 2019 -->
+<img src="https://amhouse.github.io/blog/media/vinyl-ld-19.png" alt="Lucy Dacus, 2019" width="450"/>
 
 ### Catalog
 
