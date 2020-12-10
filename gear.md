@@ -47,7 +47,7 @@ From [Prime Audio](https://primeaudio.org/thinksound-on2-review/):
 
 They are what they are.
 
-**Sony MX4**
+**Sony XM4**
 
 They're the best—really the only you should consider—if you must use bluetooth.
 
