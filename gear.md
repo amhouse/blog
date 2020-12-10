@@ -41,11 +41,15 @@ From [Prime Audio](https://primeaudio.org/thinksound-on2-review/):
 * The good
     * "Soundstage is neither particularly wide or narrow but there’s a good perception of space in all directions and imaging and positioning are precise."
 
-## Convenience pick
+## Convenience picks
 
 **Airpods Pro**
 
-* They are what they are.
+They are what they are.
+
+**Sony MX4**
+
+They're the best—really the only you should consider—if you must use bluetooth.
 
 ## For falling asleep at night
 
@@ -53,20 +57,33 @@ From [Prime Audio](https://primeaudio.org/thinksound-on2-review/):
 
 All about bone conduction headphones by [Soundguys](https://www.soundguys.com/best-bone-conduction-headphones-30293/).
 
-## When I want to share music with my dog
+## Making the TV sound less like a tin can
 
 **Klipsch R-10B soundbar**
 
-* "If there’s one adjective that can be aptly applied ..., it's: spartan. It’s not big on extras and features, and instead seems to be engineered to do one thing really well – produce head-turning sound." ([Audioholics](https://www.audioholics.com/soundbar-and-satellite-speaker-reviews/klipsch-r-10b-soundbar-review))
+"If there’s one adjective that can be aptly applied ..., it's: spartan. It’s not big on extras and features, and instead seems to be engineered to do one thing really well – produce head-turning sound." ([Audioholics](https://www.audioholics.com/soundbar-and-satellite-speaker-reviews/klipsch-r-10b-soundbar-review))
 
 ## Turntable
 
-For vinyl on an [extreme budget](https://amhouse.github.io/blog/The%20Life%20of%20a%20Dollar.pdf)...
+**Pro-ject Debut Carbon Evo**
 
-**Audio-Technica AT-LP60XHP**
+For greater detail, less "excitement" than similarly priced competition.
 
-* AT-LP60 is one step below the AT-LP120, universally acknowledged as the entry-level audiophile turntable.
-* XHP version includes a built in headphone amplifier, further driving the total setup cost down.
+## Speakers
+
+**Andover Spinbase**
+
+Haters gonna hate, but it's amazing for what it is. Surpasses expectations in every way, while adding only to the vertical space of a tiny apartment setup.
+
+Reviews I liked:
+
+* [Tech Hive](https://www.techhive.com/article/3533969/andover-audio-spinbase-review.html)
+    * "It’s an ingenious, all-in-one, plug-n-play speaker system designed specifically for turntables. It’s a near perfect solution for apartment dwellers or rooms that can’t accommodate larger systems. The Spinbase’s simplicity, performance, and sheer bang for the buck left me awe-struck."
+    * "Andover Audio says the Spinbase’s driver arrangement produces an expansive 270-degree stereo image. I’m typically skeptical of marketing claims, but short of pulling out my protractor, I was simply awe-struck by the breadth of the Spinbase’s soundstage. Unlike a typical two-channel speaker setup that gives you a single sweet spot, I could walk from one side of the Spinbase and around to the other with virtually no audible off-axis penalty. The speaker’s sound was smooth and consistent from one side to the other."
+
+* [Sound & Vision](https://www.soundandvision.com/content/andover-spinbase-turntable-speaker-system-review)
+    * "The first thing I noticed when firing up the Spinbase was just how open and free from boxiness its sonic image was. I'm not sure what DSP tricks are being used, but the image was expansive without sounding unfocused or out-of-phase. ... the bass I heard was tight and clear."
+    * "With record after record, I found the Spinbase to be a great way to enjoy music without getting preoccupied with audiophile minutiae."
 
 ## Navigation
 
