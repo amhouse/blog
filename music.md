@@ -78,6 +78,12 @@ Streaming pick: Spotify Premium.
 
 <img src="https://amhouse.github.io/blog/media/vinyl-ld-19.png" alt="Lucy Dacus, 2019" width="450"/>
 
+<!-- Bon Iver -->
+
+<!-- Maggie Rogers -->
+
+<!-- Julien Baker -->
+
 ### Catalog
 
 1. Julien Baker, Turn Out the Lights. From artist's store, 2020/03/20.
@@ -148,9 +154,15 @@ Streaming pick: Spotify Premium.
 
 1. Lucy Dacus, 2019. From artist's store, 2020/12/04.
 
-<!-- 1. Julien Baker, Little Oblivions. From Matador store, pre-ordered 2020/10/22. Released 2021/02/21. -->
+1. Bon Iver, For Emma, Forever Ago. From Turntable Lab, 2020/12/12.
 
-<!-- 1. Maggie Rogers, Notes From The Archive. From artist's store, pre-ordered 2020/11/20. Released 2020/12/18. -->
+1. Bon Iver, 22, A Million. From Turntable Lab, 2020/12/12.
+
+Pre-orders
+
+1. Julien Baker, Little Oblivions. From Matador store, pre-ordered 2020/10/22. Released 2021/02/21.
+
+1. Maggie Rogers, Notes From The Archive. From artist's store, pre-ordered 2020/11/20. Released 2020/12/18.
 
 ## Everything else
 
