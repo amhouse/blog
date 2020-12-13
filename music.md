@@ -72,7 +72,7 @@ Streaming pick: Spotify Premium.
 
 <img src="https://amhouse.github.io/blog/media/vinyl-cb.png" alt="Charly Bliss, Young Enough" width="398"/>
 
-<img src="https://amhouse.github.io/blog/media/vinyl-wh.png" alt="Waxahatchee, Saint Cloud" width="400"/>
+<img src="https://amhouse.github.io/blog/media/vinyl-wh.png" alt="Waxahatchee, Saint Cloud" width="380"/>
 
 <img src="https://amhouse.github.io/blog/media/vinyl-oc.png" alt="Overcoats, The Fight" width="434"/>
 
