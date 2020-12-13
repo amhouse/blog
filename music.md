@@ -70,13 +70,13 @@ Streaming pick: Spotify Premium.
 
 <img src="https://amhouse.github.io/blog/media/vinyl-km.png" alt="Kevin Morby, Sundowner" width="346"/>
 
-<img src="https://amhouse.github.io/blog/media/vinyl-cb.png" alt="Charly Bliss, Young Enough" width="400"/>
+<img src="https://amhouse.github.io/blog/media/vinyl-cb.png" alt="Charly Bliss, Young Enough" width="398"/>
 
 <img src="https://amhouse.github.io/blog/media/vinyl-wh.png" alt="Waxahatchee, Saint Cloud" width="400"/>
 
-<img src="https://amhouse.github.io/blog/media/vinyl-oc.png" alt="Overcoats, The Fight" width="426"/>
+<img src="https://amhouse.github.io/blog/media/vinyl-oc.png" alt="Overcoats, The Fight" width="434"/>
 
-<img src="https://amhouse.github.io/blog/media/vinyl-ld-19.png" alt="Lucy Dacus, 2019" width="450"/>
+<img src="https://amhouse.github.io/blog/media/vinyl-ld-19.png" alt="Lucy Dacus, 2019" width="414"/>
 
 <!-- Bon Iver -->
 
