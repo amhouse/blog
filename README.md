@@ -41,4 +41,4 @@ A bunch of markdown files in a Github repo? _Yeah._
 
 ### Links
 
-<a target="_blank" href="https://instagram.com/henryandamanda">instagram</a> – <a target="_blank" href="https://old.reddit.com/user/atleasttheresmusic/submitted/?sort=top">reddit</a> – <a target="_blank" href="https://twitter.com/a4ahouse">twitter</a>
+<a target="_blank" href="https://instagram.com/henryandamanda">instagram</a>
